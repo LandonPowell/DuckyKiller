@@ -57,6 +57,8 @@ def detectHuman():
 devices = [x for x in usb.core.find(find_all=True, bDeviceClass=0)]
 deviceCount = len(devices)
 
+print("The DuckyKiller is now watching for Rubber Ducks.")
+
 while True:
     devices = [x for x in usb.core.find(find_all=True, bDeviceClass=0)]
     time.sleep(.25)
