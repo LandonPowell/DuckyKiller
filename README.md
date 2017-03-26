@@ -6,7 +6,7 @@ Short Python script that attempts to neuter USB Rubber Duckies.
 * `sudo apt-get install python-pygame`
 * `sudo apt-get install python-usb`
 * Navigate to the folder where you've downloaded DuckyKiller.py and wordlist.py, 
-* `python DuckyKiller.py`
+* `sudo python DuckyKiller.py`
 
 When a keyboard is plugged in, the script will prompt the user to 
 type a set of words. Press enter to confirm your input. Press backspace
