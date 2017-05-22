@@ -18,3 +18,5 @@ which could possibly allow people to circumvent it. I've been unable
 to find no other alternatives to the vulnerability that is unauthorized
 USB keyboard input. Also, on my measily $100 laptop's crappy CPU, this
 script hits about five percent while being run from the python interpreter.
+
+Developer Bitcoin - `125QsXyFV5mWTGaJHZBzE6TDr4iMi2jSTp`
