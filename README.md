@@ -18,4 +18,4 @@ which could possibly allow people to circumvent it. I've been unable
 to find any other alternatives to BadUSB type shit. Also, on my measily $100 laptop's crappy CPU, this
 script hits about five percent while being run from the python interpreter.
 
-Developer Paypal - `http://paypal.me/qkf`
+Developer Paypal - http://paypal.me/qkf
