@@ -15,8 +15,7 @@ to clear your input.
 ### Before using this in vital locations,
 Please note that this is a work in progress, and likey has issues
 which could possibly allow people to circumvent it. I've been unable
-to find no other alternatives to the vulnerability that is unauthorized
-USB keyboard input. Also, on my measily $100 laptop's crappy CPU, this
+to find any other alternatives to BadUSB type shit. Also, on my measily $100 laptop's crappy CPU, this
 script hits about five percent while being run from the python interpreter.
 
-Developer Bitcoin - `125QsXyFV5mWTGaJHZBzE6TDr4iMi2jSTp`
+Developer Paypal - `http://paypal.me/qkf`
